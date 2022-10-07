@@ -254,9 +254,9 @@ $(document).ready(function () {
 
       selectorKenburn.vegas({
         slides: [
-          {src: "images/placeholder-2400-1600.jpg"},
-          {src: "images/placeholder-2400-1600.jpg"},
-          {src: "images/placeholder-2400-1600.jpg"}
+          {src: "images/slide1.jpg"},
+          {src: "images/slide2.jpg"},
+          {src: "images/slide3.jpg"}
           // further slide definitions
         ],
         transition: 'fade',
