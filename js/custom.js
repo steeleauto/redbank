@@ -256,7 +256,10 @@ $(document).ready(function () {
         slides: [
           {src: "images/slide1.jpg"},
           {src: "images/slide2.jpg"},
-          {src: "images/slide3.jpg"}
+          {src: "images/slide3.jpg"},
+          {src: "images/slide4.jpg"},
+          {src: "images/slide5.jpg"},
+          {src: "images/slide6.jpg"}
           // further slide definitions
         ],
         transition: 'fade',
